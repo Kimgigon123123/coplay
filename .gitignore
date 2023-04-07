@@ -1,10 +1,6 @@
-#figma 폴더,파일 무시
+#figma 폴더, 파일 무시
 /Figma
 *.fig
 
-
-
-
-
-#text 파일 무시
+# text 파일 무시
 *.txt
